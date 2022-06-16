@@ -7,5 +7,5 @@ With the expanding use of stereoscopic imaging for 3D applications, no-reference
 # Cite this article 
 Oussama Messai, Aladine Chetouani, Fella Hachouf, Zianou Ahmed Seghir, "No-reference Stereoscopic Image Quality Predictor using Deep Features from Cyclopean Image"  in Proc. IS&T Int’l. Symp. on Electronic Imaging: Image Quality and System Performance XVIII,  2021,  pp 297-1 - 297-9,  https://doi.org/10.2352/ISSN.2470-1173.2021.9.IQSP-297
 
-##Copyright statement 
+## Copyright statement 
 Copyright © Society for Imaging Science and Technology
